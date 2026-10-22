@@ -1,5 +1,7 @@
 # Case Study: Product Foundation Before Domain Completion
 
+[English](01-product-foundation.md) | [Русский](01-product-foundation.ru.md)
+
 **Maturity:** implemented foundation with incomplete product behavior.
 
 ## Situation

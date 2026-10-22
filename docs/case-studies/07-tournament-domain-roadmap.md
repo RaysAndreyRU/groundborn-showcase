@@ -1,5 +1,7 @@
 # Case Study: Tournament Domain Roadmap
 
+[English](07-tournament-domain-roadmap.md) | [Русский](07-tournament-domain-roadmap.ru.md)
+
 **Maturity:** design / planned, with executable public prototypes.
 
 ## Target aggregate flow

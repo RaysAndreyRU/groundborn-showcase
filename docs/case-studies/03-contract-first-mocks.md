@@ -1,5 +1,7 @@
 # Case Study: Contract-first Mock Development
 
+[English](03-contract-first-mocks.md) | [Русский](03-contract-first-mocks.ru.md)
+
 **Maturity:** partially implemented.
 
 ## Problem

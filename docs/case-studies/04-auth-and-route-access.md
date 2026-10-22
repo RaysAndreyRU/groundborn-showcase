@@ -1,5 +1,7 @@
 # Case Study: Authentication Recovery and Route Access
 
+[English](04-auth-and-route-access.md) | [Русский](04-auth-and-route-access.ru.md)
+
 **Maturity:** partially implemented.
 
 ## Existing client behavior

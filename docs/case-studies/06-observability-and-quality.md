@@ -1,5 +1,7 @@
 # Case Study: Observability and Quality Gates
 
+[English](06-observability-and-quality.md) | [Русский](06-observability-and-quality.ru.md)
+
 **Maturity:** implemented foundation.
 
 ## Frontend signals

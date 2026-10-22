@@ -57,13 +57,13 @@ Read the [architecture overview](docs/architecture.md) and [current status](docs
 
 | Case study | What it demonstrates | Maturity |
 | --- | --- | --- |
-| [Product foundation before domain completion](docs/case-studies/01-product-foundation.md) | Building observable, testable delivery foundations without claiming finished features. | Implemented foundation |
-| [Two FSD-oriented frontend surfaces](docs/case-studies/02-dual-frontend-boundaries.md) | Separate user and operator experiences with shared architectural rules. | Implemented foundation |
-| [Contract-first mock development](docs/case-studies/03-contract-first-mocks.md) | Seeded MSW state, Zod boundaries, React Query, and Orval-ready API migration. | Partially implemented |
-| [Authentication recovery and route access](docs/case-studies/04-auth-and-route-access.md) | Single-flight refresh, SSR checks, middleware routing, JWT and Redis infrastructure. | Partially implemented |
-| [Modular backend scaffold](docs/case-studies/05-backend-foundation.md) | Domain module boundaries, Swagger groups, infrastructure composition, and test scaffolds. | Implemented scaffold |
-| [Observability and quality gates](docs/case-studies/06-observability-and-quality.md) | Sentry, web vitals, Pino, health checks, lint, typecheck, build, and backend tests. | Implemented foundation |
-| [Tournament domain roadmap](docs/case-studies/07-tournament-domain-roadmap.md) | Lifecycle, registration, scheduling, bracket, idempotency, and persistence decisions. | Design / planned |
+| [Product foundation before domain completion](docs/case-studies/01-product-foundation.md) ([RU](docs/case-studies/01-product-foundation.ru.md)) | Building observable, testable delivery foundations without claiming finished features. | Implemented foundation |
+| [Two FSD-oriented frontend surfaces](docs/case-studies/02-dual-frontend-boundaries.md) ([RU](docs/case-studies/02-dual-frontend-boundaries.ru.md)) | Separate user and operator experiences with shared architectural rules. | Implemented foundation |
+| [Contract-first mock development](docs/case-studies/03-contract-first-mocks.md) ([RU](docs/case-studies/03-contract-first-mocks.ru.md)) | Seeded MSW state, Zod boundaries, React Query, and Orval-ready API migration. | Partially implemented |
+| [Authentication recovery and route access](docs/case-studies/04-auth-and-route-access.md) ([RU](docs/case-studies/04-auth-and-route-access.ru.md)) | Single-flight refresh, SSR checks, middleware routing, JWT and Redis infrastructure. | Partially implemented |
+| [Modular backend scaffold](docs/case-studies/05-backend-foundation.md) ([RU](docs/case-studies/05-backend-foundation.ru.md)) | Domain module boundaries, Swagger groups, infrastructure composition, and test scaffolds. | Implemented scaffold |
+| [Observability and quality gates](docs/case-studies/06-observability-and-quality.md) ([RU](docs/case-studies/06-observability-and-quality.ru.md)) | Sentry, web vitals, Pino, health checks, lint, typecheck, build, and backend tests. | Implemented foundation |
+| [Tournament domain roadmap](docs/case-studies/07-tournament-domain-roadmap.md) ([RU](docs/case-studies/07-tournament-domain-roadmap.ru.md)) | Lifecycle, registration, scheduling, bracket, idempotency, and persistence decisions. | Design / planned |
 
 ## Executable design prototypes
 

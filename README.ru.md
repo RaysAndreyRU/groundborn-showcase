@@ -53,13 +53,13 @@ flowchart LR
 
 ## Инженерные case studies
 
-1. [Технический фундамент до завершения домена](docs/case-studies/01-product-foundation.md).
-2. [Два FSD-oriented frontend-контура](docs/case-studies/02-dual-frontend-boundaries.md).
-3. [Contract-first разработка с MSW](docs/case-studies/03-contract-first-mocks.md).
-4. [Auth recovery и контроль маршрутов](docs/case-studies/04-auth-and-route-access.md).
-5. [Модульный backend scaffold](docs/case-studies/05-backend-foundation.md).
-6. [Observability и quality gates](docs/case-studies/06-observability-and-quality.md).
-7. [Roadmap турнирного домена](docs/case-studies/07-tournament-domain-roadmap.md).
+1. [Технический фундамент до завершения домена](docs/case-studies/01-product-foundation.ru.md).
+2. [Два FSD-oriented frontend-контура](docs/case-studies/02-dual-frontend-boundaries.ru.md).
+3. [Contract-first разработка с MSW](docs/case-studies/03-contract-first-mocks.ru.md).
+4. [Auth recovery и контроль маршрутов](docs/case-studies/04-auth-and-route-access.ru.md).
+5. [Модульный backend scaffold](docs/case-studies/05-backend-foundation.ru.md).
+6. [Observability и quality gates](docs/case-studies/06-observability-and-quality.ru.md).
+7. [Roadmap турнирного домена](docs/case-studies/07-tournament-domain-roadmap.ru.md).
 
 ## Запускаемые design prototypes
 

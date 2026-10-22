@@ -1,5 +1,7 @@
 # Case Study: Two FSD-oriented Frontend Surfaces
 
+[English](02-dual-frontend-boundaries.md) | [Русский](02-dual-frontend-boundaries.ru.md)
+
 **Maturity:** implemented foundation.
 
 ## Decision

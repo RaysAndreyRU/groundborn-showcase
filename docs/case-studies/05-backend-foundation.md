@@ -1,5 +1,7 @@
 # Case Study: Modular Backend Foundation
 
+[English](05-backend-foundation.md) | [Русский](05-backend-foundation.ru.md)
+
 **Maturity:** implemented infrastructure and domain scaffold.
 
 ## Module map
